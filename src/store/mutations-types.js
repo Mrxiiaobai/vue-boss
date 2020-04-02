@@ -1,0 +1,5 @@
+export const INCREMENT = 'increment'
+export const SETUSERINFO = 'setUserInfo'
+export const SETUSERID = 'setUserId'
+export const SETUSERTYPE = 'setUserType'
+export const SETLOGINCODE = 'setLoginCode'
